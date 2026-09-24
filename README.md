@@ -26,3 +26,7 @@ This builds the binary, copies it to `~/.local/bin/music-autolaunch-guard`, and 
 | `make uninstall` | Stop the agent and remove the binary and plist |
 
 "Quit Music Autolaunch Guard" in the menu stops it until your next login. A crash restarts it.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
